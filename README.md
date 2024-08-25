@@ -1,5 +1,5 @@
 
-# Personal Portfolio - Mohan Veera Manikanta Kalepu
+#Portfolio - Mohan Veera Manikanta Kalepu
 
 Welcome to my personal portfolio! This website showcases my journey as a tech enthusiast and developer. Below is an overview of what you'll find in this project.
 
